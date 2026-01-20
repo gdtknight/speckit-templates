@@ -11,6 +11,7 @@ This document defines HOW the system will be built.
   - Phase 1:
   - Phase 2:
   - Phase 3:
+- Add AGENTS.md compliance guidance to all speckit command templates for supported agents.
 
 ---
 
