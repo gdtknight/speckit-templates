@@ -43,6 +43,13 @@ Explicitly out of scope:
 - Success criteria:
   - ...
 
+### FR-2: Speckit command compliance
+- Description: Speckit command templates must instruct supported agents to follow the mandatory read order in `AGENTS.md` before any action.
+- Inputs: Speckit command invocation.
+- Outputs: Agent guidance that enforces the read order.
+- Success criteria:
+  - All speckit command templates used by Codex, Gemini, Copilot, and Claude (when present) include the AGENTS.md compliance instruction.
+
 ---
 
 ## Non-Functional Requirements
